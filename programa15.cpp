@@ -22,7 +22,7 @@ int main(void){
     SB = GH * HT;
 
     //AUX equivale a 1 por cento do salario
-    int AUX = SB / 100;
+    float AUX = SB / 100;
 
 
     //Agora será feito os calculos dos descontos
